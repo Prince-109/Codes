@@ -86,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Prince-109/Codes/tree/master/1291-sequential-digits) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Prince-109/Codes/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
