@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Prince-109/Codes/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Prince-109/Codes/tree/master/0035-search-insert-position) |
 | [1288-remove-covered-intervals](https://github.com/Prince-109/Codes/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Prince-109/Codes/tree/master/1301-number-of-paths-with-max-score) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Prince-109/Codes/tree/master/0001-two-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/Prince-109/Codes/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Prince-109/Codes/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
