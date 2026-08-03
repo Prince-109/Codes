@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prince-109/Codes/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Prince-109/Codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prince-109/Codes/tree/master/0035-search-insert-position) |
 | [0877-stone-game](https://github.com/Prince-109/Codes/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Prince-109/Codes/tree/master/1260-shift-2d-grid) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Prince-109/Codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prince-109/Codes/tree/master/0035-search-insert-position) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Prince-109/Codes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Prince-109/Codes/tree/master/3501-maximize-active-section-with-trade-ii) |
