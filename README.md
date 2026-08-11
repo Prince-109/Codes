@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Prince-109/Codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prince-109/Codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prince-109/Codes/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Prince-109/Codes/tree/master/0037-sudoku-solver) |
 | [0877-stone-game](https://github.com/Prince-109/Codes/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Prince-109/Codes/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Prince-109/Codes/tree/master/1288-remove-covered-intervals) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Prince-109/Codes/tree/master/0037-sudoku-solver) |
 | [1260-shift-2d-grid](https://github.com/Prince-109/Codes/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Prince-109/Codes/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Prince-109/Codes/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Prince-109/Codes/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Prince-109/Codes/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/Prince-109/Codes/tree/master/0037-sudoku-solver) |
 | [1331-rank-transform-of-an-array](https://github.com/Prince-109/Codes/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Prince-109/Codes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Prince-109/Codes/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -218,4 +221,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/Prince-109/Codes/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Prince-109/Codes/tree/master/1406-stone-game-iii) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Prince-109/Codes/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Prince-109/Codes/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Prince-109/Codes/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
