@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Prince-109/Codes/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Prince-109/Codes/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prince-109/Codes/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prince-109/Codes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Prince-109/Codes/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Prince-109/Codes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Prince-109/Codes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Prince-109/Codes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/Prince-109/Codes/tree/master/0037-sudoku-solver) |
 | [1331-rank-transform-of-an-array](https://github.com/Prince-109/Codes/tree/master/1331-rank-transform-of-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prince-109/Codes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Prince-109/Codes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Prince-109/Codes/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/Prince-109/Codes/tree/master/3731-find-missing-elements) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Prince-109/Codes/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prince-109/Codes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Game Theory
 |  |
 | ------- |
