@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prince-109/Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prince-109/Codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/Prince-109/Codes/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Prince-109/Codes/tree/master/0217-contains-duplicate) |
 | [0877-stone-game](https://github.com/Prince-109/Codes/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Prince-109/Codes/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Prince-109/Codes/tree/master/1288-remove-covered-intervals) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Prince-109/Codes/tree/master/0217-contains-duplicate) |
 | [1288-remove-covered-intervals](https://github.com/Prince-109/Codes/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Prince-109/Codes/tree/master/1331-rank-transform-of-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Prince-109/Codes/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Prince-109/Codes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Prince-109/Codes/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Prince-109/Codes/tree/master/0037-sudoku-solver) |
+| [0217-contains-duplicate](https://github.com/Prince-109/Codes/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/Prince-109/Codes/tree/master/1331-rank-transform-of-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Prince-109/Codes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prince-109/Codes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
