@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Prince-109/Codes/tree/master/0037-sudoku-solver) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prince-109/Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prince-109/Codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0189-rotate-array](https://github.com/Prince-109/Codes/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/Prince-109/Codes/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Prince-109/Codes/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Prince-109/Codes/tree/master/1288-remove-covered-intervals) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Prince-109/Codes/tree/master/0189-rotate-array) |
 | [0836-rectangle-overlap](https://github.com/Prince-109/Codes/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Prince-109/Codes/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Prince-109/Codes/tree/master/1406-stone-game-iii) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Prince-109/Codes/tree/master/0189-rotate-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prince-109/Codes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Prince-109/Codes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prince-109/Codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
