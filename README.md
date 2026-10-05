@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Prince-109/Codes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Prince-109/Codes/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Prince-109/Codes/tree/master/0058-length-of-last-word) |
+| [0856-score-of-parentheses](https://github.com/Prince-109/Codes/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prince-109/Codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Prince-109/Codes/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prince-109/Codes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prince-109/Codes/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Prince-109/Codes/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Prince-109/Codes/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prince-109/Codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Prince-109/Codes/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prince-109/Codes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Prince-109/Codes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Prince-109/Codes/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Prince-109/Codes/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Prince-109/Codes/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Prince-109/Codes/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prince-109/Codes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prince-109/Codes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
