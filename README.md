@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Prince-109/Codes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prince-109/Codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Prince-109/Codes/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2540-minimum-common-value](https://github.com/Prince-109/Codes/tree/master/2540-minimum-common-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Prince-109/Codes/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Prince-109/Codes/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prince-109/Codes/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prince-109/Codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prince-109/Codes/tree/master/0035-search-insert-position) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Prince-109/Codes/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2540-minimum-common-value](https://github.com/Prince-109/Codes/tree/master/2540-minimum-common-value) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prince-109/Codes/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Prince-109/Codes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Prince-109/Codes/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Prince-109/Codes/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/Prince-109/Codes/tree/master/1331-rank-transform-of-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Prince-109/Codes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2540-minimum-common-value](https://github.com/Prince-109/Codes/tree/master/2540-minimum-common-value) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Prince-109/Codes/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prince-109/Codes/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prince-109/Codes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Prince-109/Codes/tree/master/0189-rotate-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prince-109/Codes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2540-minimum-common-value](https://github.com/Prince-109/Codes/tree/master/2540-minimum-common-value) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Prince-109/Codes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prince-109/Codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
