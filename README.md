@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prince-109/Codes/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Prince-109/Codes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prince-109/Codes/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Prince-109/Codes/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Prince-109/Codes/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/Prince-109/Codes/tree/master/2540-minimum-common-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Prince-109/Codes/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Prince-109/Codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prince-109/Codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prince-109/Codes/tree/master/0035-search-insert-position) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Prince-109/Codes/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Prince-109/Codes/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/Prince-109/Codes/tree/master/2540-minimum-common-value) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prince-109/Codes/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Prince-109/Codes/tree/master/0217-contains-duplicate) |
 | [1288-remove-covered-intervals](https://github.com/Prince-109/Codes/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Prince-109/Codes/tree/master/1331-rank-transform-of-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Prince-109/Codes/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Prince-109/Codes/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Prince-109/Codes/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Prince-109/Codes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
