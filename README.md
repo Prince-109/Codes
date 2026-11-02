@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Prince-109/Codes/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Prince-109/Codes/tree/master/0217-contains-duplicate) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Prince-109/Codes/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prince-109/Codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0877-stone-game](https://github.com/Prince-109/Codes/tree/master/0877-stone-game) |
 | [1254-number-of-closed-islands](https://github.com/Prince-109/Codes/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Prince-109/Codes/tree/master/1260-shift-2d-grid) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Prince-109/Codes/tree/master/0217-contains-duplicate) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prince-109/Codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1288-remove-covered-intervals](https://github.com/Prince-109/Codes/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Prince-109/Codes/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prince-109/Codes/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Prince-109/Codes/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Prince-109/Codes/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prince-109/Codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/Prince-109/Codes/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Prince-109/Codes/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Prince-109/Codes/tree/master/1406-stone-game-iii) |
